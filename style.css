@@ -1,1 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Curriculum Vitae - João Paulo Fonseca Elias</title>
+</head>
+
+<body>
+  <div class="container">
+    <header class="header">
+      <img src="ft3-joster.jpeg" alt="Foto de João Paulo Fonseca Elias">
+    </header>
+    <header>
+      <h1>Curriculum Vitae</h1>
+    </header>
+    <div class="section">
+      <h2>Dados Pessoais</h2>
+      <p><strong>Nome:</strong> João Paulo Fonseca Elias</p>
+      <p><strong>Endereço:</strong> Rua Congonhal, 546, B. 13, APTO.1003, Bairro Santa Terezinha</p>
+      <p><strong>Telefone:</strong> (31) 975549637</p>
+      <p><strong>E-mail:</strong> joaopaulofonsecaelias14@gmail.com</p>
+      <p><strong>Responsável:</strong> Cleyde Dias Fonseca Elias</p>
+    </div>
+    <div class="section">
+      <h2>Objetivos</h2>
+      <p>Adquirir conhecimentos e experiência na área da Tecnologia da Informação.</p>
+    </div>
+    <div class="section">
+      <h2>Perfil</h2>
+      <p>Possuo foco ao aprender, me socializo muito bem em grupo, tendo um ótimo convívio. Sou dedicado e tenho
+        disposição para qualquer tipo de trabalho.</p>
+    </div>
+    <div class="section">
+      <h2>Formação</h2>
+      <ul>
+        <li>2021 - 2023: Colégio Cotemig - Ensino Médio</li>
+        <li>2013 - 2020: Escola Educar, Ensino Fundamental</li>
+        <li>2024 – 2028: PUC Minas – Praça da Liberdade (Encerramento Previsto 2028) - Engenharia de
+          Software</li>
+        <li>Curso Técnico em Informática</li>
+        <li>2022: Curso de Inglês TFLA Idiomas</li>
+      </ul>
+    </div>
+    <div class="section">
+      <h2>Habilidades</h2>
+      <ul>
+        <li>Linguagens de Programação: PHP, HTML, CSS, JAVA, MYSQL, C#, C, C++, PHP, JAVASCRIPT</li>
+        <li>Hardware</li>
+        <li>Domínio de Ferramentas do Google</li>
+        <li>Operar sistemas operacionais Windows e Linux</li>
+        <li>Software</li>
+        <li>Operar Pacote Office</li>
+      </ul>
+    </div>
+    <div class="section">
+      <h2>Certificados</h2>
+      <ul>
+        <li>Certificado Cisco Networking Academy – Cibersecurity Essentials</li>
+        <li>C-Certificate Fundação Getúlio Vargas – Autoinstrucional</li>
+      </ul>
+    </div>
+  </div>
+</body>
+
+</html>
