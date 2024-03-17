@@ -52,8 +52,9 @@
    margin: 5px 0;
  }
 
-        @media screen and (max-width: 600px) {
-            header{
-                display: none;
-            }
-        }
+@media screen and (max-width: 600px) {
+
+ header{
+  display: none;
+  }
+}
